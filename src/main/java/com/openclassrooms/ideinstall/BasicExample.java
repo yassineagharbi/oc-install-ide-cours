@@ -7,7 +7,7 @@ public class BasicExample {
 		
 		for(j=0; j<3; j++) {
 			System.out.println("Hello bugs yassine !");
-			
+			 
 		}
 	}
 }
